@@ -24,7 +24,7 @@ This is a solution to a front end development challenge on frontendmentor.io whi
 
 ### Links
 
-- Solution URL: https://isaacharrison28.github.io/QR-code-for-frontendmentor
+- Solution URL: https://github.com/IsaacHarrison28/QR-code-for-frontendmentor
 - Live Site URL: https://isaacharrison28.github.io/QR-code-for-frontendmentor/
 
 ## My process
