@@ -15,9 +15,8 @@ body{
 }
 
 .container{
-    width: 85%;
+    width: 80%;
     max-width: 350px;
-    margin: auto;
     border-radius: 0.7em;
     background: hsl(0, 0%, 100%);
     padding: 1rem;
